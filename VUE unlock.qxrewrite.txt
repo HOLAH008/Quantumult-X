@@ -1,0 +1,5 @@
+#VUE Vlog 解锁高级功能 (需登录)   api.vuevideo.net
+
+^https:\/\/api\.vuevideo\.net\/api\/v1\/(users\/.+\/profile|subtitle\/prepare) url script-response-body https://raw.githubusercontent.com/NobyDa/Script/master/Surge/JS/VUE.js
+
+hostname = api.vuevideo.net
