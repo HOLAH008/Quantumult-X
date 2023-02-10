@@ -65,7 +65,6 @@ DOMAIN,www.wenshushu.cn,IP
 IP-CIDR,119.29.29.98/32,REJECT
 DOMAIN,frodo.douban.com,IP
 DOMAIN,www.douban.com,IP
-DOMAIN,api.coolapk.com,IP
 DOMAIN,api.taptapdada.com,IP
 DOMAIN,god.gameyw.netease.com,IP
 DOMAIN-SUFFIX,huya.com,IP
